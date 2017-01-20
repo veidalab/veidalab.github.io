@@ -1,6 +1,21 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: Publications
+  url: /publications/
+  excerpt: "VEIDA's Publications"
+  image: veida-teaser-709x443.png
+
+- title: People
+  url: /people/
+  excerpt: "VEIDA's People"
+  image: veida-teaser-709x443.png
+
+- title: Positions
+  url: /positions/
+  excerpt: "VEIDA's Open Positions"
+  image: veida-teaser-709x443.png
+
+- title: Contact Us 
+  url: /contact/
+  excerpt: "Get in touch"
+  image: veida-teaser-709x443.png

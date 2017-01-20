@@ -1,4 +1,7 @@
 # Footer navigation links
 
-- title:
-  url:
+- title: Subscribe
+  url: /subscribe/
+
+- title: Github
+  url: https://github.com/veidalab/
