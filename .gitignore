@@ -94,3 +94,8 @@ _site/
 .jekyll-metadata
 *.lock
 *.swp
+
+# Operating System Related
+*.db
+.DS_Store
+
