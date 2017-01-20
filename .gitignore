@@ -87,3 +87,10 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Jekyll related
+_site/
+.sass-cache/
+.jekyll-metadata
+*.lock
+*.swp
