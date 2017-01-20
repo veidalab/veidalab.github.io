@@ -22,8 +22,10 @@ gems:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jekyll-mention
-
+  - jekyll-mentions
+  - jemoji
+  - html-proofer
+  - jekyll-seo-tag
 
 # Site owner
 owner:
