@@ -5,7 +5,6 @@ published: true
 ---
 # veida Publications
 
-
 -N.M. Khan, X. Nan, N. Dong, J. Bond, M. Kyan, J. James, C. Davis, and L. Guan.
 “Toward a shared large-area mixed reality system”, in Proc. of IEEE International Conference
 on Multimedia and Expo Workshop on Mobile Multimedia Computing (MMC), Seattle, USA, Jul.
