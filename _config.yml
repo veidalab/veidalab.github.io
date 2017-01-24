@@ -2,9 +2,9 @@
 
 title: "VEIDA Lab"
 description: "VEIDA Lab - York University."
-logo: veida-logo-orange.png # 120x120 px default image used for Twitter summary card
+logo: veida-logo-orange-light.png # 120x120 px default image used for Twitter summary card
 teaser: veida-teaser-709x443.png # 400x250 px default teaser image used in image archive grid
-bannerimg: veida-banner2.jpg
+bannerimg: veida-banner4.jpg
 locale: en
 url: http://www.veidalab.com
 feed:

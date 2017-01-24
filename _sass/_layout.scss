@@ -9,6 +9,7 @@
 #masthead {
 	padding: $gutter;
 	z-index: 5;
+	background: $black;   
 	@include transform(translate(0,0));
 	@include transition(500ms cubic-bezier(.645,.045,.355,1.000));
 	&.slide {
@@ -26,7 +27,7 @@
 	padding: (.25 * $masthead-height) 0; // fourth the height to center vertically
 	height: $masthead-height;
 	text-decoration: none;
-	color: $black;
+	color: $white;
 	font-family: $alt-font;
 	font-weight: 700;
 	@include font-size(20,no);
@@ -44,6 +45,7 @@
 
 .menu {
 	li {
+		color: $white;
 		float: left;
 		&:last-child a {
 			@include media($medium) {
