@@ -94,8 +94,12 @@ _site/
 .jekyll-metadata
 *.lock
 *.swp
+node_modules
+node_modules/
 
 # Operating System Related
 *.db
 .DS_Store
-
+.idea
+.idea/
+.idea/*

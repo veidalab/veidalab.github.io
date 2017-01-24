@@ -1,0 +1,12 @@
+<div id="js-menu-screen" class="menu-screen"></div>
+{% if page.carousel %}
+<div class="flexslider">
+    <ul class="slides">
+        {% for slides in page.carousel %}
+        <li class="banner-img">
+            <img src="{{ site.url }}/{{ slides.image }}" class="banner-img" alt="{{ site.description }}">
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+{% endif %}
