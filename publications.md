@@ -1,5 +1,5 @@
 ---
-title: VEIDA's Publications
+title: null
 layout: article
 published: true
 ---
