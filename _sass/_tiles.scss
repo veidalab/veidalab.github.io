@@ -4,7 +4,6 @@ Tiles
 
 .tile {
     @include outer-container;
-    margin-top: $banner;
     margin-bottom: $gutter;
     @include media($micro) {
         @include fill-parent;

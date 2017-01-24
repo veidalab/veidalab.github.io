@@ -4,6 +4,7 @@
 
 .wrap {
   @include outer-container;
+  margin-top: $banner;
 }
 
 .come-in {
