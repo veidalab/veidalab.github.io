@@ -13,6 +13,9 @@ published: true
 3D confocal microscope images”, Proc. IEEE Int. Conf. on Image Processing, vol. II, pp. 843-
 847, Kobe, Japan, October 1999
 
+
+
+
 [C2] M. Kyan, L. Guan, M. Arnison and C. Cogswell, “Feature extraction and 3D construction
 of Nomarski DIC microscope images using local energy and neural net techniques”, Proc. Focus
 on Microscopy 1999, Heidelberg, Germany, April 1999
