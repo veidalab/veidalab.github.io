@@ -3,9 +3,6 @@ title: ''
 layout: article
 published: true
 ---
-
-# Publications
-
 ## test2
 
 ### test3
