@@ -3,9 +3,7 @@ title: ''
 layout: article
 published: true
 ---
-## test2
-
-### test3
+# veida Publications
 
 ![creepyhand]({{site.baseurl}}/images/0.jpg)
 
