@@ -9,7 +9,7 @@
 #masthead {
 	padding: $gutter;
 	z-index: 5;
-	background: $black;   
+	background: $gray;   
 	@include transform(translate(0,0));
 	@include transition(500ms cubic-bezier(.645,.045,.355,1.000));
 	&.slide {
@@ -21,7 +21,7 @@
 }
 .site-title {
 	@include row;
-	@include media($large) {
+	@include media($medium) {
 		@include span-columns(4);
 	}
 	padding: (.25 * $masthead-height) 0; // fourth the height to center vertically
@@ -45,7 +45,6 @@
 
 .menu {
 	li {
-		color: $white;
 		float: left;
 		&:last-child a {
 			@include media($medium) {
@@ -68,6 +67,7 @@
 				top: 0;
 				left: 0;
 				height: 2px;
+				color: $white;
 				@include transition(width 0.3s);
 			}
 			&:before {
@@ -76,7 +76,7 @@
 			}
 			&:after {
 				width: 0;
-				background: $black;
+				background: $white;
 			}
 			&:active:after,
 			&:hover:after {
@@ -91,10 +91,10 @@
 .top-menu {
 	display: none;
 	position: relative;
-	@include media($medium) {
+/*	@include media($medium) {
 		@include span-columns(12);
-	}
-	@include media($large) {
+	}*/
+	@include media($medium) {
 		@include span-columns(7);
 		ul {
 			position: absolute;
@@ -110,7 +110,7 @@
 			font-weight: 700;
 			@include font-size(16,no);
 			line-height: .5 * $masthead-height; // half the height to center vertically
-			color: $black;
+			color: $white;
 			text-transform: uppercase;
 		}
 	}
