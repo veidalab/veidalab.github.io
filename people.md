@@ -5,7 +5,7 @@ published: true
 ---
 
 
-{% include toc.html %}
+{{% include toc.html %}
 
 #
 
@@ -44,3 +44,4 @@ mandate to foster interdisciplinary research in the digital media sector.
 ## Alumni 
 
 ### TBD
+}
