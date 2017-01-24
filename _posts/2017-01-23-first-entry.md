@@ -1,7 +1,7 @@
 ---
 title: "First Post"
 layout: article
-categories: Blog
+categories: blog
 tags:
  - about
 image:
