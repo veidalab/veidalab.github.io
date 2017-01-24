@@ -6,6 +6,12 @@ published: true
 
 # Publications
 
+## test2
+
+### test3
+
+![creepyhand]({{site.baseurl}}/images/0.jpg)
+
 [C3] M. Kyan, L. Guan, M. Arnison and C. Cogswell, “Feature extraction of chromosomes from
 3D confocal microscope images”, Proc. IEEE Int. Conf. on Image Processing, vol. II, pp. 843-
 847, Kobe, Japan, October 1999
