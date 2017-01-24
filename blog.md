@@ -1,10 +1,6 @@
 ---
 layout: archive 
-permalink: /
-carousel:
-  - image: /images/veida-banner4.jpg
-  - image: /images/veida-banner6.jpg
-  - image: /images/veida-banner7.jpg
+permalink: /blog/
 ---
 <div class="tiles">
 {% for post in site.posts %}
