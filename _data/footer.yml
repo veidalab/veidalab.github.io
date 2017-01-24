@@ -1,7 +1,18 @@
 # Footer navigation links
 
-- title: Subscribe
-  url: /subscribe/
+- title: Youtube 
+  url: https://www.youtube.com/channel/UCdrwmuZaNiN49_519kWT6dQ 
 
 - title: Github
   url: https://github.com/veidalab/
+
+- title: Twitter 
+  url: https://twitter.com/veidalab/
+
+- title: Facebook 
+  url: https://www.facebook.com/VEIDA-Lab-391199924553856/ 
+
+- title: Contact Us 
+  url: /contact/ 
+
+

@@ -2,10 +2,11 @@
 
 title: "VEIDA Lab"
 description: "VEIDA Lab - York University."
-logo: veida-logo-on-depth-120x120.png # 120x120 px default image used for Twitter summary card
+logo: veida-logo-orange.png # 120x120 px default image used for Twitter summary card
 teaser: veida-teaser-709x443.png # 400x250 px default teaser image used in image archive grid
+bannerimg: veida-banner2.jpg
 locale: en
-url: #http://www.veidalab.com
+url: http://www.veidalab.com
 feed:
   path: atom.xml
 
@@ -36,8 +37,8 @@ owner:
     ad-client:
     ad-slot:
   bio: 
-  avatar: https://raw.githubusercontent.com/bradstimpson/bradstimpson.github.io/master/assets/images/profile.png # 160x160 px image for author byline
-  disqus-shortname:
+  avatar: bio-photo.jpg 
+  disqus-shortname: bradford2015
 
 
 include:
