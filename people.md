@@ -3,6 +3,9 @@ title: The People of VEIDA lab
 layout: article
 published: true
 overview: People Table of Contents
+logo: veida-logo-orange-light.png
+teaser: 'http://eecs.lassonde.yorku.ca/wp-content/uploads/2016/02/Matthew-550x400.jpg'
+url: 'http://www.veidalab.com'
 ---
 
 
