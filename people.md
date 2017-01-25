@@ -2,7 +2,7 @@
 title: The People of VEIDA lab
 layout: article
 published: true
-overview: "People Table of Contents"
+overview: People Table of Contents
 ---
 
 
@@ -23,11 +23,12 @@ Media, serving as Program Director from 2013-2015. In 2015, Dr. Kyan joined the 
 School of Engineering in the Dept. of Electrical Engineering and Computer Science with a
 mandate to foster interdisciplinary research in the digital media sector.
 
+
 ## PHD Students
 
 ### Meng Jia
-
-### Kent
+Skilled in image processing, pattern recognition, machine learning, image recognition and machine intelligence; Meng Jia is currently pursuing his PhD in Electrical Engineering and Computer Science at York University. 
+### Kent Poots 
 
 ## Master Students 
 
@@ -36,12 +37,15 @@ mandate to foster interdisciplinary research in the digital media sector.
 ## Research Assistants 
 
 ### Brad Stimpson 
-
-:) 
+Experienced in wireless telecommunications, R&D, corporate operations and engineering management; Brad Stimpson manages Veida's administrative tasks. 
 
 ### Mubariz Nagi 
+Specializing Solidworks, Intsrumentation and measurementation, data analysis and machine design; Mubariz Nagi is currently pursuing his undergraduate degree in Mechanical Engineering. 
+
+### Deniz Centinalp
+Adept in Unity, C++ and C#; Deniz Centinalp is currently pursuing his undergradute degree in Software Engineering.
 
 ## Alumni 
 
 ### TBD
-}
+
