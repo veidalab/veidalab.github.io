@@ -34,6 +34,7 @@ mandate to foster interdisciplinary research in the digital media sector.
 
 ### Meng Jia
 Skilled in image processing, pattern recognition, machine learning, image recognition and machine intelligence; Meng Jia is currently pursuing his PhD in Electrical Engineering and Computer Science at York University. 
+
 ### Kent Poots 
 
 ## Master Students 
