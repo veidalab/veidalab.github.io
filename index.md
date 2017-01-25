@@ -2,7 +2,7 @@
 layout: archive 
 permalink: /
 carousel:
-  - image: /images/veida-banner4.jpg
+  - image: /images/veida-banner1.jpg
   - image: /images/veida-banner6.jpg
   - image: /images/veida-banner7.jpg
   - image: /images/veida-banner8.jpg

@@ -482,10 +482,13 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 .banner-img {
   display: block;
   max-width: 100% !important;
+  height: 400px;
+  object-fit: cover;
+  object-position: 15%;
 }
 /* Direction Nav */
 .flex-direction-nav {height: 0;list-style: none;z-index:3;}
-.flex-direction-nav a {width: 30px; height: 30px; margin: -20px 0 0; display: block; background: url('/images/bg_direction_nav.png') no-repeat 0 0; position: absolute; top: 50%; z-index: 3; cursor: pointer; text-indent: -9999px; opacity: 1; -webkit-transition: all .3s ease;}
+.flex-direction-nav a {width: 30px; height: 30px; margin: -20px 0 0; display: block; background: url('/images/bg_direction_nav.png') no-repeat 0 0; position: absolute; top: 50%; z-index: 3; cursor: pointer; text-indent: 100%; white-space: nowrap; overflow: hidden; opacity: 1; -webkit-transition: all .3s ease;}
 .flexslider {display:block;max-width:100% !important;position:absolute;z-index:1;}
 .slides {display:block;max-width:100% !important;padding:0px;margin:0px;z-index:1;}
 .flexslider .flex-next {opacity: 0.8; right: 5px;        -moz-transform: scaleX(-1);

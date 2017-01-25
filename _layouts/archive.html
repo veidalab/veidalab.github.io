@@ -2,8 +2,12 @@
 layout: default
 ---
 
-<div id="main" role="main">			
-	<div class="wrap">
+<div id="main" role="main">
+    {% if page.carousel %}
+	<div class="wrap-banner" >
+    {% else %}
+	<div class="wrap" >
+	{% endif %}
 		{% if page.image.feature %}
 		<div class="page-feature">
 			<div class="page-image">

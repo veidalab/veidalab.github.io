@@ -4,6 +4,10 @@
 
 .wrap {
   @include outer-container;
+}
+
+.wrap-banner {
+  @include outer-container;
   margin-top: $banner;
 }
 

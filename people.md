@@ -2,10 +2,11 @@
 title: The People of VEIDA lab
 layout: article
 published: true
+overview: "People Table of Contents"
 ---
 
 
-{{% include toc.html %}
+{% include toc.html %}
 
 
 ## Professors
