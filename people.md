@@ -16,6 +16,8 @@ url: 'http://www.veidalab.com'
 
 ### Dr. Matthew Kyan
 
+[![]({{site.baseurl}}/http://eecs.lassonde.yorku.ca/wp-content/uploads/2016/02/Matthew-550x400.jpg)](http://eecs.lassonde.yorku.ca/faculty/matthew-kyan/)
+
 Matthew Kyan received the B.Sc. in Computer Science (’97), B.Eng. (’98) and PhD (’07) in
 Electrical Engineering from the University of Sydney, Australia. He joined Ryerson University
 in 2008, where he played an instrumental role in establishing the Centre for Interactive
