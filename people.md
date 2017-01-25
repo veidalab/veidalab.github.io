@@ -14,9 +14,9 @@ url: 'http://www.veidalab.com'
 
 ## Professors
 
-### Dr. Matthew Kyan
+### [Dr. Matthew Kyan](http://eecs.lassonde.yorku.ca/faculty/matthew-kyan/)
 
-[![]({{site.baseurl}}/https://www.google.ca/search?q=matthew+george+york+university&tbm=isch&tbs=simg:CAQSmQEJnhw7r5NB3OcajQELEKjU2AQaBggKCD0IQgwLELCMpwgaYgpgCAMSKJEHkAfUGtMa5BL2D5wH1xrlEoUQzDqiP8MuyzrIOts6-SSyLoUlyToaMGVL2rhqxucZFFDGiJoUyYRdl8oSmL_19gYaiRE2pvSwU35LSfubmXy99cauWLUdfNSAEDAsQjq7-CBoKCggIARIEQvhwLgw&sa=X&ved=0ahUKEwjQxfuNtdzRAhVk9IMKHW2iDt8Qwg4IGSgA](http://eecs.lassonde.yorku.ca/faculty/matthew-kyan/)
+[![]({{site.baseurl}}//Matt.jpg)](http://eecs.lassonde.yorku.ca/faculty/matthew-kyan/)
 
 
 Matthew Kyan received the B.Sc. in Computer Science (’97), B.Eng. (’98) and PhD (’07) in
