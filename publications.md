@@ -53,8 +53,7 @@ Santiago, Chile, December 12-14, 2012, pp. 125-134.
 [C24] N. M. Khan, M. Kyan and L. Guan, “[Intuitive Volume Exploration through SphericalSelf-Organizing Map](/papers/C24.pdf)”, 9th Workshop on Self-Organizing Maps – WSOM 2012, Santiago, Chile,
 December 12-14, 2012, pp. 125-134.
 
-[C23] Y. Niu, R. Todd, M. Kyan and A. Anderson, “Visual saliency and emotional salience
-influence eye movements”, ACM Symposium on Applied Perception (SAP 2012), 3-4 August,
+[C23] Y. Niu, R. Todd, M. Kyan and A. Anderson, “[Visual saliency and emotional salienceinfluence eye movements](/paper/C23.pdf)”, ACM Symposium on Applied Perception (SAP 2012), 3-4 August,
 Los Angeles, CA.
 
 [C22] Y. Saber and M. Kyan, “[High Resolution Biologically Inspired Salient RegionDetection](/papers/C22.pdf)”, 18th IEEE International Conference on Image Processing (ICIP), 11-14 Sep. 2011,
