@@ -24,3 +24,11 @@ Unique  within  Canada,  VEiDA  is  a  highly  reconfigurable  lab  that will  e
 </div><!-- /.tiles -->
 
 ***
+
+## Partnerships
+
+<div class="partners">
+    <img alt="amdlogo" src="/images/partnerlogo-amd.png">
+    <img alt="synlogo" src="/images/partnerlogo-syn.png">
+    <img alt="awelogo" src="/images/partnerlogo-awe.png">
+</div>
