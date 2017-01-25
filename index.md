@@ -18,7 +18,9 @@ The  Laboratory  for  Visual,  Embodied  and  Immersive  Data  Analysis  (VEiDA)
 Unique  within  Canada,  VEiDA  is  a  highly  reconfigurable  lab  that will  enable  the  rapid development  of  innovative  visuo-tangible  frameworks  for  EDA,  utilized  in  applications  deployed  across a range sectors from cultural heritage, to 3D multimedia, manufacturing, biology, health and medicine. With data  and  analytics  projected  to  be  a  major  driver  of  revenue  growth  in the coming  years,  and  the  massive growth in immersive technologies. VEiDA will strengthen Canada's leadership in existing and emerging digital economies.
 
 <div class="tiles">
-{% for post in site.posts %}
-	{% include post-grid.html %}
+{% for post in site.posts limit:6 %}
+	{% include post-grid-index.html %}
 {% endfor %}
 </div><!-- /.tiles -->
+
+***

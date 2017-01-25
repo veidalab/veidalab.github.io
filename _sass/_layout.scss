@@ -122,8 +122,9 @@
 .bottom-menu {
 	@include clearfix;
 	font-weight: 700;
+	background: #737373;
 	a {
-		color: lighten($black,60);
+		color: lighten($white,60);
 	}
 }
 
@@ -343,8 +344,10 @@
 	@include outer-container;
 	margin-top: (3 * (0px + $doc-line-height));
 	margin-top: (3 * (0rem + ($doc-line-height / $doc-font-size)));
-	padding-bottom: $gutter;
+	padding: $gutter;
 	font-family: $alt-font;
+	background: #737373;
+	max-width: 100%;
   /* Copyright text */
 	.copyright {
 		@include font-size(12);

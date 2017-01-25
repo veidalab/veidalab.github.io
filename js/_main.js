@@ -1,7 +1,7 @@
 // Initialise FlexSlider for Carousels
 $(document).ready(function() {
     $('.flexslider').flexslider({
-        animation: "fade",
+        animation: 'fade',
         controlNav: false,
         directionNav: true,
         slideshowSpeed: 5000,
@@ -25,10 +25,10 @@ $(document).ready(function(){
 // FitVids
 $(document).ready(function(){
 	// Target your .container, .wrapper, .post, etc.
-	$("#main").fitVids();
+	$('#main').fitVids();
 });
 
 // Table of Contents title. Change text to localize
-$("#markdown-toc").prepend('<li><h6>{{ site.data.messages.locales[site.locale].overview }}</h6></li>');
+$('#markdown-toc').prepend('<li><h6>{{ site.data.messages.locales[site.locale].overview }}</h6></li>');
 
 

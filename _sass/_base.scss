@@ -250,7 +250,7 @@ hr {
   margin: 0rem + ((2 * $doc-line-height) / $doc-font-size) 0;
   padding: 0;
   height: 5px;
-  border: 0;
+  border: 1;
   &:before {
     content: '';
     position: absolute;
