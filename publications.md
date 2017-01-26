@@ -16,14 +16,14 @@ Proc. of the 10th Int. Conf. on Tangible, Embedded and Embodied Interaction (TEI
 York, NY, USA, 287-295, 14-17 Feb 2016.
 
 ## 2015
-[J15] P. Muneesawang, N. M. Khan, M. Kyan, R. B. Elder, "[A Machine Intelligence Approachto Virtual Ballet Training](/paper/J15.pdf)," IEEE MultiMedia, vol. 22, no. 4, pp. 80-92, Oct.-Dec. 2015. doi:
+[J15] P. Muneesawang, N. M. Khan, M. Kyan, R. B. Elder, "[A Machine Intelligence Approachto Virtual Ballet Training](/papers/J15.pdf)," IEEE MultiMedia, vol. 22, no. 4, pp. 80-92, Oct.-Dec. 2015. doi:
 10.1109/MMUL.2015.73
 
 [J14] B. Vuong, P. Skowron, T. R. Kiehl, M. Kyan, L. Garzia, C. Sun, and Yang, V. X. (2015).
-[Measuring the optical characteristics of medulloblastoma with optical coherence tomography.](/paper/J14.pdf)
+[Measuring the optical characteristics of medulloblastoma with optical coherence tomography.](/papers/J14.pdf)
 Biomedical optics express, 6(4), 1487-1501.
 
-[J13] M. Kyan, G. Sun, H. Li, L. Zhong, P. Muneesawang, B. Elder and L. Guan, “[An Approachto Ballet Dance Training through MS Kinect and Visualization in a CAVE Virtual RealityEnvironment](/paper/J13.pdf)”, ACM Transactions on Intelligent Systems and Technology (TIST), 6(2) March
+[J13] M. Kyan, G. Sun, H. Li, L. Zhong, P. Muneesawang, B. Elder and L. Guan, “[An Approachto Ballet Dance Training through MS Kinect and Visualization in a CAVE Virtual RealityEnvironment](/papers/J13.pdf)”, ACM Transactions on Intelligent Systems and Technology (TIST), 6(2) March
 2015.
 
 [C34] S. Patel, D. Androutsos, M. J. Kyan, “[Adaptive exposure fusion for high dynamic rangeimaging](/papers/C34.pdf)", In Image Processing (ICIP), 2015 IEEE International Conference on Sept, 2015, pp.
@@ -38,7 +38,7 @@ July 6-9, 2015, Cambridge UK.
 - A Dynamic Approach, ISBN: 978-0-470-27833-8, 288 pages. May 2014, WileyIEEE
 Press.
 
-[J12] N. M. Khan, M. Kyan and L. Guan, “[Intuitive volume exploration through spherical selforganizingmap and color harmonization](/paper/J12.pdf)”, Journal of Neurocomputing, doi: 
+[J12] N. M. Khan, M. Kyan and L. Guan, “[Intuitive volume exploration through spherical selforganizingmap and color harmonization](/papers/J12.pdf)”, Journal of Neurocomputing, doi: 
 10.1016/j.neucom.2013.09.064, June 2014. 
 
 [C32] G. Sun, P. Muneesawang, M. Kyan, H. Li, L. Zhong, N. Dong, B. Elder, L. Guan, “[AnAdvanced Computational Intelligence System for Training of Ballet Dance in a Cave Virtual Reality Environment](/papers/C32.pdf)”, In Multimedia (ISM), 2014 IEEE International Symposium on, December
@@ -57,7 +57,7 @@ Vol.1, Lisbon, Portugal, Jan 2014, pp. 634-640.
 
 ## 2013
 
-[J9] Y. Niu, M. Kyan, L. Ma, A. Beghdadi and S. Krishnan “[Visual Saliency’s ModulatoryEffect on Just Noticeable Distortion Profile and Its Application in Image Watermarking](/paper/J9.pdf)", Signal
+[J9] Y. Niu, M. Kyan, L. Ma, A. Beghdadi and S. Krishnan “[Visual Saliency’s ModulatoryEffect on Just Noticeable Distortion Profile and Its Application in Image Watermarking](/papers/J9.pdf)", Signal
 Processing: Image Communication, 28(8), September 2013, pp. 917-928.
 
 [C28] R. Manshaei and M. Kyan, “[Sparse and Stable Reconstruction of Genetic RegulatoryNetworks Using Time Series Gene Expression Data](/papers/C28.pdf)”, Proceedings of the International
@@ -73,12 +73,12 @@ Educational Institutes for Graphic Arts, Technology and Management, June 2-6, 20
 
 ## 2012
 [J11] R. Manshaei, P. Sobhe Bidari, M. A. Shoorehdeli, A. Feizi, T. Lohrasebi, M. A. Malboobi,
-M. Kyan and J. Alirezaie, “[Hybrid-controlled neuro-fuzzy networks analysis resulting in geneticregulatory networks reconstruction](/paper/j11.pdf)”, ISRN Bioinformatics, doi:10.5402/2012/419419, 2012,
+M. Kyan and J. Alirezaie, “[Hybrid-controlled neuro-fuzzy networks analysis resulting in geneticregulatory networks reconstruction](/papers/J11.pdf)”, ISRN Bioinformatics, doi:10.5402/2012/419419, 2012,
 pp.1-16.
 
-[J10] Y. Niu, R. Todd, M. Kyan and A. Anderson, “[Visual and emotional salience influence eyemovements](/paper/J10.pdf)”, ACM Transactions on Applied Perception, Vol. 9, Issue 3, No.13, July 2012.
+[J10] Y. Niu, R. Todd, M. Kyan and A. Anderson, “[Visual and emotional salience influence eyemovements](/papers/J10.pdf)”, ACM Transactions on Applied Perception, Vol. 9, Issue 3, No.13, July 2012.
 
-[J8] M. Milosevic, K. Masani, M. Kyan, M. Popovic, and K. V. McConville, "[Visualization ofTrunk Muscle Synergies during Sitting Perturbations using Self Organizing Maps](/paper/J8.pdf)", IEEE
+[J8] M. Milosevic, K. Masani, M. Kyan, M. Popovic, and K. V. McConville, "[Visualization ofTrunk Muscle Synergies during Sitting Perturbations using Self Organizing Maps](/papers/J8.pdf)", IEEE
 Transactions on Biomedical Engineering (TMBE), Vol. 59, No. 9, September 2012, pp. 2516-
 2523. 
 
@@ -92,7 +92,7 @@ December 12-14, 2012, pp. 125-134.
 Los Angeles, CA.
 
 ## 2011
-[J7] Y. Niu, M. Kyan, S. Krishnan and Q. Zhang, “[A Combined Just Noticeable DistortionModel Guided Image Watermarking](/paper/J7.pdf)”, Signal, Image and Video Processing, Vol. 5, No. 4, pp.
+[J7] Y. Niu, M. Kyan, S. Krishnan and Q. Zhang, “[A Combined Just Noticeable DistortionModel Guided Image Watermarking](/papers/J7.pdf)”, Signal, Image and Video Processing, Vol. 5, No. 4, pp.
 517-526, 2011.
 
 [C22] Y. Saber and M. Kyan, “[High Resolution Biologically Inspired Salient RegionDetection](/papers/C22.pdf)”, 18th IEEE International Conference on Image Processing (ICIP), 11-14 Sep. 2011,
@@ -105,7 +105,7 @@ Conference on Electrical and Computer Engineering, May 2011, pp. 1256-1259.
 Processing Conference (EUSIPCO 2011), Barcelona, August 2011, pp. 2039-2043.
 
 ## 2010
-[J6] R. Rzeszutek, D. Androutsos and M. Kyan, “[Self-Organizing Maps for Topic TrendDiscovery](/paper/J6.pdf)”, IEEE Signal Processing Letters, Vol.17, No.6, pp. 607- 610, June 2010.
+[J6] R. Rzeszutek, D. Androutsos and M. Kyan, “[Self-Organizing Maps for Topic TrendDiscovery](/papers/J6.pdf)”, IEEE Signal Processing Letters, Vol.17, No.6, pp. 607- 610, June 2010.
 
 [C19] Y. Niu, M. Kyan, S. Krishnan and Q. Zhang (2010), “[A Combined Just NoticeableDistortion Model Guided Image Watermarking](/papers/C19.pdf)”, International Conference on Digital Content,
 Multimedia Technology and its Applications (IDC 2010), Seoul, Korea, August 2010
@@ -141,7 +141,7 @@ International Symposium on Multimedia (ISM), Berkeley, California, 15-17 Dec, 20
 177. 
 
 ## 2006
-[J5] M. Kyan, K. Jarrah, P. Muneesawang, and L. Guan, “[Strategies for UnsupervisedMultimedia Processing: Self-Organizing Trees and Forests](/paper/J5.pdf)”, IEEE Computational Intelligence
+[J5] M. Kyan, K. Jarrah, P. Muneesawang, and L. Guan, “[Strategies for UnsupervisedMultimedia Processing: Self-Organizing Trees and Forests](/papers/J5.pdf)”, IEEE Computational Intelligence
 Magazine, Vol.1, No.2, May 2006.
 
 [C10] M. Kyan and L. Guan, “[The Self-Organizing Hierarchical Variance Map](/papers/C10.pdf)”, International
@@ -158,7 +158,7 @@ Engineering (SPIE), San Jose, California, USA, January 2006, Vol. 6073, pp. 6073
 Expo (ICME), Toronto, Canada, 2006
 
 ## 2005 or before
-[J4] M. Kyan, L. Guan and S. Liss, “[Refining competition in the self-organising tree map forunsupervised biofilm image segmentation](/paper/J4.pdf)", Journal of Neural Networks, 2005. Vol.18, pp. 850-
+[J4] M. Kyan, L. Guan and S. Liss, “[Refining competition in the self-organising tree map forunsupervised biofilm image segmentation](/papers/J4.pdf)", Journal of Neural Networks, 2005. Vol.18, pp. 850-
 860
 
 [C6] M. Kyan, L. Guan and S. Liss, “3D Microbial Image Segmentation with The Self
@@ -172,7 +172,7 @@ award**
 [C4] Y. Li, M. Kyan and L. Guan, “[Improving shape-based CBIR for natural image contentusing a modified GFD](/papers/C4.pdf)”, Proc. Of 2nd Int. Conf. on Image Analysis and Recognition (ICIAR),
 28-30 Sept. 2005 pp. 593-600.
 
-[J3] M. Kyan, L. Guan, M. Arnison and C. Cogswell, “[Feature extraction of chromosomes from3D confocal microscope images](/paper/J3.pdf)”, IEEE Trans. on Biomedical Engineering, vol. 48, no. 11, pp.
+[J3] M. Kyan, L. Guan, M. Arnison and C. Cogswell, “[Feature extraction of chromosomes from3D confocal microscope images](/papers/J3.pdf)”, IEEE Trans. on Biomedical Engineering, vol. 48, no. 11, pp.
 1306-1318, November 2001.
 
 [C3] M. Kyan, L. Guan, M. Arnison and C. Cogswell, “[Feature extraction of chromosomes from3D confocal microscope images](/papers/C3.pdf)”, Proc. IEEE Int. Conf. on Image Processing, vol. II, pp. 843-
