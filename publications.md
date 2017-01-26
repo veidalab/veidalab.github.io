@@ -34,6 +34,10 @@ Neighborhoods”, Signal Processing with Adaptive Sparse Structured Representati
 July 6-9, 2015, Cambridge UK.
 
 ## 2014
+[B1] M. Kyan, P. Muneesawang, K. Jarrah and L. Guan, Unsupervised Learning via SelfOrganization
+- A Dynamic Approach, ISBN: 978-0-470-27833-8, 288 pages. May 2014, WileyIEEE
+Press.
+
 [J12] N. M. Khan, M. Kyan and L. Guan, “[Intuitive volume exploration through spherical selforganizingmap and color harmonization](/paper/J12.pdf)”, Journal of Neurocomputing, doi: 
 10.1016/j.neucom.2013.09.064, June 2014. 
 
