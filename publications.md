@@ -5,7 +5,7 @@ published: true
 ---
 # veida Publications
 
-## Conference Papers
+## 2016
 [C36] N.M. Khan, X. Nan, N. Dong, J. Bond, M. Kyan, J. James, C. Davis, and L. Guan.
 “[Toward a shared large-area mixed reality system](/papers/C36.pdf)”, in Proc. of IEEE International Conference
 on Multimedia and Expo Workshop on Mobile Multimedia Computing (MMC), Seattle, USA, Jul.
@@ -15,6 +15,7 @@ on Multimedia and Expo Workshop on Mobile Multimedia Computing (MMC), Seattle, U
 Proc. of the 10th Int. Conf. on Tangible, Embedded and Embodied Interaction (TEI), ACM, New
 York, NY, USA, 287-295, 14-17 Feb 2016.
 
+## 2015
 [C34] S. Patel, D. Androutsos, M. J. Kyan, “[Adaptive exposure fusion for high dynamic rangeimaging](/papers/C34.pdf)", In Image Processing (ICIP), 2015 IEEE International Conference on Sept, 2015, pp.
 4679-4683.
 
@@ -22,6 +23,7 @@ York, NY, USA, 287-295, 14-17 Feb 2016.
 Neighborhoods”, Signal Processing with Adaptive Sparse Structured Representations (SPARS),
 July 6-9, 2015, Cambridge UK.
 
+## 2014
 [C32] G. Sun, P. Muneesawang, M. Kyan, H. Li, L. Zhong, N. Dong, B. Elder, L. Guan, “[AnAdvanced Computational Intelligence System for Training of Ballet Dance in a Cave Virtual Reality Environment](/papers/C32.pdf)”, In Multimedia (ISM), 2014 IEEE International Symposium on, December
 2014, pp. 159-166.
 
@@ -36,6 +38,7 @@ pp. 24-29.
 ACM International Conference on Computer Vision Theory and Applications (VISAPP 2014),
 Vol.1, Lisbon, Portugal, Jan 2014, pp. 634-640.
 
+## 2013
 [C28] R. Manshaei and M. Kyan, “[Sparse and Stable Reconstruction of Genetic RegulatoryNetworks Using Time Series Gene Expression Data](/papers/C28.pdf)”, Proceedings of the International
 Conference on Bioinformatics, Computational Biology and Biomedical Informatics (ACM
 BCB’13), Sept. 22-25, 2013, pp. 710.
@@ -47,6 +50,7 @@ Educational Institutes for Graphic Arts, Technology and Management, June 2-6, 20
 Booth for the Photographic-Arts and Printing Industry”, 45th Conf. of the International Circle of
 Educational Institutes for Graphic Arts, Technology and Management, June 2-6, 2013
 
+## 2012
 [C25] A. O. Gonsales and M. Kyan, “[Trajectory analysis on spherical self-organizing maps withapplication to gesture recognition](/papers/C25.pdf)”, 9th Workshop on Self-Organizing Maps – WSOM 2012,
 Santiago, Chile, December 12-14, 2012, pp. 125-134.
 
@@ -56,6 +60,7 @@ December 12-14, 2012, pp. 125-134.
 [C23] Y. Niu, R. Todd, M. Kyan and A. Anderson, “[Visual saliency and emotional salienceinfluence eye movements](/paper/C23.pdf)”, ACM Symposium on Applied Perception (SAP 2012), 3-4 August,
 Los Angeles, CA.
 
+## 2011
 [C22] Y. Saber and M. Kyan, “[High Resolution Biologically Inspired Salient RegionDetection](/papers/C22.pdf)”, 18th IEEE International Conference on Image Processing (ICIP), 11-14 Sep. 2011,
 pp. 649-652.
 
@@ -65,6 +70,7 @@ Conference on Electrical and Computer Engineering, May 2011, pp. 1256-1259.
 [C20] Y. Niu, M. Kyan, L. Ma, A. Beghdadi and S. Krishnan, “[A Visual Saliency ModulatedJust Noticeable Distortion Profile for Image Watermarking](/papers/C20.pdf)", The 19th European Signal
 Processing Conference (EUSIPCO 2011), Barcelona, August 2011, pp. 2039-2043.
 
+## 2010
 [C19] Y. Niu, M. Kyan, S. Krishnan and Q. Zhang (2010), “[A Combined Just NoticeableDistortion Model Guided Image Watermarking](/papers/C19.pdf)”, International Conference on Digital Content,
 Multimedia Technology and its Applications (IDC 2010), Seoul, Korea, August 2010
 
@@ -79,6 +85,7 @@ Rehab's 6th Annual Research Day. Toronto. Nov. 26, 2010.
 [C16] M. T. Ibrahim, M. Kyan, M. A. Khan, and L. Guan, “[On-Line Signature VerificationUsing 1-D Velocity-Based Directional Analysis](/papers/C16.pdf)”, 20th International Conference on Pattern
 Recognition (ICPR), Istanbul, Turkey, 2010
 
+## 2009
 [C15] M. Kyan, Y. Saber, N. Jain, J. Cancilla, and Y. Wang, “[On Spatial Rendering and UserCenteredVisualization in 3D](/papers/C15.pdf)”, IEEE International Symposium on IT in Medicine & Education
 (ITME), Jinan, China, 2009, pp. 23-30.
 
@@ -92,10 +99,12 @@ Analysis and Recognition (ICDAR), Barcelona, Spain, 2009, pp. 41-45.
 [C12] M. T. Ibrahim, M. J. Kyan, L. Guan, “[On Line Signature Verification Using GlobalFeatures](/papers/C12.pdf)”, Canadian Conference on Electrical and Computer Engineering (CCECE), St. Johns,
 Newfoundland, 3-6 May, 2009, pp. 682-685.
 
+## 2008
 [C11] M. T. Ibrahim, M. J. Kyan, L. Guan, “[On-line Signature Verification Using MostDiscriminating Features and Fisher Linear Discriminant Analysis (FLD)](/papers/C11.pdf)”, Tenth IEEE
 International Symposium on Multimedia (ISM), Berkeley, California, 15-17 Dec, 2008, pp. 172-
 177. 
 
+## 2006
 [C10] M. Kyan and L. Guan, “[The Self-Organizing Hierarchical Variance Map](/papers/C10.pdf)”, International
 Joint Conf. on Neural Networks (IJCNN), Vancouver, 2006, pp. 3767-3774.
 
@@ -109,6 +118,7 @@ Engineering (SPIE), San Jose, California, USA, January 2006, Vol. 6073, pp. 6073
 [C7] K. Jarrah, M. Kyan, S. Krishnan, and L. Guan, “[Computational intelligence techniques andtheir Applications in Content-Based Image Retrieval](/papers/C7.pdf)”, International Conf. on Multimedia &
 Expo (ICME), Toronto, Canada, 2006
 
+## 2005 or before
 [C6] M. Kyan, L. Guan and S. Liss, “3D Microbial Image Segmentation with The Self
 Organising Tree Map”, Computational Vision in Neural and Machine Systems. Poster
 Presentation. June 15-18, 2005 York University, Toronto, Canada
