@@ -1,0 +1,29 @@
+# All the lab partners
+
+- title: "York University"
+  img: "/images/partnerlogo-york.png"
+  url: "http://www.yorku.ca"
+
+- title: "Lassonde School of Engineering"
+  img: "/images/partnerlogo-las.png"
+  url: "http://lassonde.yorku.ca"
+
+- title: "Center for Vision Research (CVR) Lab @ Yorku"
+  img: "/images/partnerlogo-cvr.png"
+  url: "http://www.cvr.yorku.ca"
+
+- title: "AWE Company Inc."
+  img: "/images/partnerlogo-awe.png"
+  url: "http://www.awecompany.com"
+
+- title: "Synaptop Inc."
+  img: "/images/partnerlogo-syn.png"
+  url: "http://www.synaptop.com"
+
+- title: "AMD Inc."
+  img: "/images/partnerlogo-amd.png"
+  url: "http://www.amd.com"
+
+- title: "RE/Lab @ Ryerson University"
+  img: "/images/partnerlogo-relab.png"
+  url: "http://relab.blog.ryerson.ca"

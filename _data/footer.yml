@@ -1,18 +1,13 @@
 # Footer navigation links
 
 - title: Youtube 
-  url: https://www.youtube.com/channel/UCdrwmuZaNiN49_519kWT6dQ 
+  youtube_url: https://www.youtube.com/channel/UCdrwmuZaNiN49_519kWT6dQ
 
 - title: Github
-  url: https://github.com/veidalab/
+  github_url: https://github.com/veidalab/
 
 - title: Twitter 
-  url: https://twitter.com/veidalab/
+  twitter_url: https://twitter.com/veidalab/
 
 - title: Facebook 
-  url: https://www.facebook.com/VEIDA-Lab-391199924553856/ 
-
-- title: Contact Us 
-  url: /contact/ 
-
-
+  facebook_url: https://www.facebook.com/VEIDA-Lab-391199924553856/

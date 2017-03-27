@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>{% if page.title %}{{ page.title }} • {% endif %}{{ site.title }}</title>
+    <title>{% if site.title %}{{ site.title }}{% endif %}{% if site.title %} • {{ site.title }}{% endif %}</title>
     {% if page.excerpt %}<meta name="description" content="{{ page.excerpt | strip_html }}">{% endif %}
     {% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
     {% if page.author %}
@@ -39,6 +39,7 @@
     <div id="page-wrapper">
       {{ content }}
     </div>
+    {% include contactform.html %}
     {% include footer.html %}
 
     <script src="{{ site.url }}/js/vendor/jquery-1.9.1.min.js"></script>

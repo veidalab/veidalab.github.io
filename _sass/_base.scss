@@ -5,6 +5,9 @@
 /*
    Typography
    ========================================================================== */
+#js-body {
+  margin-bottom: 0px;
+}
 
 body {
   font-family: $base-font;
@@ -249,15 +252,15 @@ hr {
   margin: 0px + (2 * $doc-line-height) 0;
   margin: 0rem + ((2 * $doc-line-height) / $doc-font-size) 0;
   padding: 0;
-  height: 5px;
-  border: 1;
+  height: 2px;
+  border: 1px dashed #fcd549;
   &:before {
     content: '';
     position: absolute;
     top: 0;
     left: 0;
     width: 2 * $column;
-    height: 1px;
+    height: 0px;
     background: $border-color;
   }
 }
@@ -355,6 +358,7 @@ input[type="submit"] {
   user-select: none;
   vertical-align: middle;
   white-space: nowrap;
+  list-style: none;
 }
 
 /*
@@ -499,3 +503,48 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   -ms-filter: "FlipH";}
 .flexslider .flex-prev {opacity: 0.8; left: 5px;}
 
+
+.icon {
+  text-decoration: none;
+  border-bottom: none;
+  position: relative;
+}
+
+.icon:before {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: normal;
+  text-transform: none !important;
+}
+
+.icon > .label {
+  display: none;
+}
+
+.icon.alt:before {
+  background-color: #ffffff;
+  border-radius: 100%;
+  color: #242943;
+  display: inline-block;
+  height: 2em;
+  line-height: 2em;
+  text-align: center;
+  width: 2em;
+}
+
+a.icon.alt:before {
+  -moz-transition: background-color 0.2s ease-in-out;
+  -webkit-transition: background-color 0.2s ease-in-out;
+  -ms-transition: background-color 0.2s ease-in-out;
+  transition: background-color 0.2s ease-in-out;
+}
+
+a.icon.alt:hover:before {
+  background-color: #6fc3df;
+}
+
+a.icon.alt:active:before {
+  background-color: #37a6cb;
+}

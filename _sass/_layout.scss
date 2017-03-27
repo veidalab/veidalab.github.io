@@ -123,8 +123,16 @@
 	@include clearfix;
 	font-weight: 700;
 	background: #737373;
-	a {
-		color: lighten($white,60);
+	padding: 5px 15px;
+	margin-right: 0px;
+	height: 0px;
+	li {
+		a {
+			padding: 5px 15px;
+			margin-right: 0px;
+			height: 0px;
+			color: lighten($white, 60);
+		}
 	}
 }
 
@@ -336,25 +344,140 @@
 	@include font-size(16);
 }
 
-/*
-   Site footer
-   ========================================================================== */
+.partners {
+	text-align: center;
+}
 
-#site-footer {
+/*
+	Contact Form near footer
+   ========================================================================== */
+#contact-form{
 	@include outer-container;
 	margin-top: (3 * (0px + $doc-line-height));
 	margin-top: (3 * (0rem + ($doc-line-height / $doc-font-size)));
 	padding: $gutter;
 	font-family: $alt-font;
+	background: #dedede;
+	max-width: 100%;
+	ul {
+		list-style: none;
+	}
+}
+/*
+   Site footer
+   ========================================================================== */
+
+#site-footer {
+	@include font-size(10);
+	@include outer-container;
+	padding: $gutter;
+	font-family: $alt-font;
 	background: #737373;
 	max-width: 100%;
-  /* Copyright text */
-	.copyright {
-		@include font-size(12);
-		color: lighten($black,60);
-		a {
+	margin-bottom: 0px;
+	.inner-left-top {
+		@include span-columns(4);
+		vertical-align: middle;
+		text-align: center;
+		ul {
+			display: inline-block;
+          	padding-left: 0px;
+			list-style: none;
+			overflow: auto;
+			white-space: nowrap;
+			li {
+				font-size: rem(15);
+				display: inline;
+				white-space: nowrap;
+			}
+		}
+	}
+	.inner-left-bottom {
+		@include span-columns(4);
+		vertical-align: middle;
+		text-align: center;
+		ul {
+			display: inline-block;
+			padding-left: 0px;
+			list-style: none;
+			overflow: auto;
+			white-space: nowrap;
+			li {
+				font-size: rem(15);
+				display: inline;
+				white-space: nowrap;
+			}
+		}
+	}
+	.inner-right-top {
+		@include span-columns(8);
+      	@include omega();
+		margin-bottom: 5px;
+		form {
+			display: inline;
+			overflow: auto;
+			white-space: nowrap;
+			margin-bottom: 0px;
+			input[type=text] {
+				width: 75%;
+				display: inline;
+				white-space: nowrap;
+				margin-bottom: 0px;
+			}
+			input[type=submit]{
+				margin-bottom: 0px;
+			}
+		}
+	}
+	.inner-right-bottom {
+		@include span-columns(8);
+		@include omega();
+		h5 {
+			font-size: rem(12);
+			margin: 0px;
+		}
+		ul {
+			padding-left: 0px;
+			list-style-type: none;
+			overflow: auto;
+			white-space: nowrap;
+			li {
+				display: inline;
+				white-space: nowrap;
+				img {
+					width: 50px;
+					height: auto;
+					filter: brightness(0%) invert(100%);
+				}
+			}
+		}
+	}
+}
+
+/* Copyright text */
+#copyright {
+	@include font-size(12);
+	text-align: center;
+	padding: 0px;
+	margin: 0px;
+	background: $gray;
+	.inner {
+		margin: 0;
+		padding: 0;
+		ul {
+			padding-left: 0px;
 			color: lighten($black,60);
-			text-decoration: none;
+			display: inline-block;
+			list-style: none;
+			overflow: auto;
+			white-space: nowrap;
+			margin-top: 5px;
+			margin-bottom: 0px;
+			li {
+				font-size: rem(12);
+            	display: inline;
+				white-space: nowrap;
+			}
 		}
 	}
 }

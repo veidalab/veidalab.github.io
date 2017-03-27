@@ -1,7 +1,7 @@
 # Site wide configuration
-
 title: "VEIDA Lab"
-description: "VEIDA Lab - York University."
+subtitle: "York University"
+description: "VEIDA Lab - Department of Electrical and Computer Engineering - York University."
 logo: veida-logo-orange-light.png # 120x120 px default image used for Twitter summary card
 teaser: veida-teaser-709x443.png # 400x250 px default teaser image used in image archive grid
 bannerimg: veida-banner4.jpg
@@ -9,6 +9,17 @@ locale: en
 url: http://www.veidalab.com
 feed:
   path: atom.xml
+
+# Contact Info
+email: admin@veida.ca
+phone: "+ 416 736 2100  x 33965"
+organization: "York University"
+department: "Department of Electrical and Computer Engineering"
+address: "4700 Keele Street"
+city: Toronto
+state: Ontario
+country: Canada
+zip_code: "M3J 1P3"
 
 # Jekyll configuration
 
