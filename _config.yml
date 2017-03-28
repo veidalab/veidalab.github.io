@@ -51,6 +51,15 @@ owner:
   avatar: bio-photo.jpg 
   disqus-shortname: bradford2015
 
+# For Social Media
+social:
+  twitter: veidalab
+  facebook: veidalab
+  youtube: veidalab
+  github: veidalab
+
+# For Google Analytics
+analytics-google: 'UA-90629217-1'
 
 include:
   - .htaccess

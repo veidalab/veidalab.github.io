@@ -116,18 +116,18 @@
 
 .btn-social {
 	$social:
-    (facebook, $facebook-color),
-		(flickr, $flickr-color),
-		(foursquare, $foursquare-color),
-		(google-plus, $google-plus-color),
-		(instagram, $instagram-color),
-		(linkedin, $linkedin-color),
-		(pinterest, $pinterest-color),
-		(rss, $rss-color),
-		(tumblr, $tumblr-color),
-		(twitter, $twitter-color),
-		(vimeo, $vimeo-color),
-		(youtube, $youtube-color);
+									(facebook, $facebook-color),
+									(flickr, $flickr-color),
+									(foursquare, $foursquare-color),
+									(google-plus, $google-plus-color),
+									(instagram, $instagram-color),
+									(linkedin, $linkedin-color),
+									(pinterest, $pinterest-color),
+									(rss, $rss-color),
+									(tumblr, $tumblr-color),
+									(twitter, $twitter-color),
+									(vimeo, $vimeo-color),
+									(youtube, $youtube-color);
 	@extend .btn-inverse;
 	color: $text-color !important;
 	&:visited,
@@ -137,21 +137,60 @@
 	border: 1px solid $border-color !important;
 	@each $socialnetwork, $color in $social {
 		i.fa-#{$socialnetwork} {
-	    color: $color;
-    }
+			color: $color;
+		}
 	}
 	&:hover {
 		color: $white !important;
 	}
 	@each $socialnetwork, $color in $social {
 		&.#{$socialnetwork}:hover {
-	    background: $color;
-	    border-color: $color;
-	    @each $socialnetwork, $color in $social {
+			background: $color;
+			border-color: $color;
+			@each $socialnetwork, $color in $social {
 				i.fa-#{$socialnetwork} {
-			    color: $white;
-		    }
+					color: $white;
+				}
 			}
-    }
+		}
+	}
+}
+
+
+.btn-social-header {
+	@extend .btn;
+	position: fixed;
+	transform: translateZ(0);
+	backface-visibility: hidden;
+	top: 0.118em;
+	right: 0.618em;
+	display: block;
+	width: 6.8em;
+	height: 1.5em;
+	background: $border-color;
+	outline: 0;
+	padding: 0;
+	border: 2.5px solid transparent;
+	z-index: 1000;
+	.btn-social-floater {
+		z-index: inherit;
+		position: relative;
+		ul {
+			padding-left: 0px;
+			list-style-type: none;
+			overflow: auto;
+			white-space: nowrap;
+			li {
+				display: inline;
+				white-space: nowrap;
+				width: 0.6em;
+				font-size: 0.5rem;
+				img {
+					width: 30px;
+					height: auto;
+					filter: brightness(0%) invert(100%);
+				}
+			}
+		}
 	}
 }

@@ -1,52 +1,52 @@
 <!-- Contact -->
 <section id="contact-form">
-    <div class="inner">
+    <div class="inner-left">
         <section>
+            <h2>Contact Us</h2>
             <form action="https://formspree.io/{{ site.email }}" method="POST">
                 <div class="field half first">
-                    <label for="name">Name</label>
-                    <input type="text" name="name" id="name" />
+                    <input type="text" name="name" id="name" placeholder="Name"/>
                 </div>
                 <div class="field half">
-                    <label for="email">Email</label>
-                    <input type="text" name="_replyto" id="email" />
+                    <input type="text" name="_replyto" id="email" placeholder="Email"/>
                 </div>
                 <div class="field">
-                    <label for="message">Message</label>
-                    <textarea name="message" id="message" rows="6"></textarea>
+                    <textarea name="message" id="message" rows="6" placeholder="Message"></textarea>
                 </div>
                 <ul class="actions">
-                    <li><input type="submit" value="Send Message" class="special" /></li>
-                    <li><input type="reset" value="Clear" /></li>
+                    <li><input type="submit" value="Send Message" class="special btn-inner-right" /></li>
                 </ul>
             </form>
         </section>
-        <section class="split">
-            <section>
-                <div class="contact-method">
-                    <span class="icon alt fa-envelope"></span>
-                    <h3>Email</h3>
-                    <a href="#">{{ site.email }}</a>
-                </div>
-            </section>
-            <section>
-                <div class="contact-method">
-                    <span class="icon alt fa-phone"></span>
-                    <h3>Phone</h3>
-                    <span>{{ site.phone }}</span>
-                </div>
-            </section>
-            <section>
-                <div class="contact-method">
-                    <span class="icon alt fa-home"></span>
-                    <h3>Address</h3>
-                    <span>{{ site.department }}<br />
+    </div>
+    <div class="inner-right">
+        <section>
+            <div class="contact-method">
+                <span class="icon alt fa-envelope"></span>
+                <h3>Email</h3>
+            </div>
+            <br />
+             <a href="#">{{ site.email }}</a>
+        </section>
+        <section>
+            <div class="contact-method">
+                <span class="icon alt fa-phone"></span>
+                <h3>Phone</h3>
+            </div>
+            <br />
+            <span>{{ site.phone }}</span>
+        </section>
+        <section>
+            <div class="contact-method">
+                <span class="icon alt fa-home"></span>
+                <h3>Address</h3>
+            </div>
+            <br />
+            <span>{{ site.department }}<br />
                     {{ site.organization }}</span>
-                    <span>{{ site.address }}<br />
+            <span>{{ site.address }}<br />
 					{{ site.city }}, {{ site.state }} {{ site.zip_code }}<br />
 					{{ site.country }}</span>
-                </div>
-            </section>
         </section>
     </div>
 </section>

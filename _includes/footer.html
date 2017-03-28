@@ -1,8 +1,7 @@
 <footer role="contentinfo" id="site-footer">
-	<div class="inner-left-top">
+	<div class="inner-left">
 		<a href="{{ site.url }}/" class="site-title"><img class="site-logo" style="filter: brightness(0%) invert(100%); max-width: 130px; width: auto; height: auto;" src="/images/{{ site.logo }}" alt="{{ site.title }}"></a>
-	</div>
-	<div class="inner-left-bottom">
+
 		<ul class="icons">
 			{% for link in site.data.footer %}
 			{% if link.twitter_url %}
@@ -34,28 +33,20 @@
 			{% endif %}
 			{% if link.youtube_url %}
 			<li><a href="{{ link.youtube_url }}" class="icon alt fa-youtube-square" target="_blank"><span class="label">Youtube</span></a></li>
-            {% endif %}
+			{% endif %}
 			{% if link.linkedin_url %}
 			<li><a href="{{ link.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
 			{% endif %}
-            {% endfor %}
-		</ul>
-	</div>
-    <div class="inner-right-top">
-		Enter your email to subscribe to our monthly newsletter to be the first to know about the exciting projects we are working on (Don't worry, we will never pass your details to someone else).
-		<br />
-			<form action="{{ site.subscribe_url }}" method="POST">
-				<input type="text" name="email" id="email" placeholder="Email" />
-				<input type="submit" value="Subscribe" class="special" />
-			</form>
-	</div>
-	<div class="inner-right-bottom">
-		<h5>Partners</h5>
-		<ul>
-			{% for partner in site.data.partners %}
-			<li><a href="{{ partner.url }}" target="_blank"><img src="{{ partner.img }}" alt="{{ partner.title }}"></a></li>
 			{% endfor %}
 		</ul>
+	</div>
+	<div class="inner-right">
+		Enter your email to subscribe to our monthly newsletter to be the first to know about the exciting projects we are working on (Don't worry, we will never pass your details to someone else).
+		<br />
+		<form action="{{ site.subscribe_url }}" method="POST">
+			<input type="text" name="email" id="email" placeholder="Email" />
+			<input type="submit" value="Subscribe" class="special" />
+		</form>
 	</div>
 </footer>
 <section id="copyright">
@@ -63,6 +54,10 @@
 		<ul class="copyright">
 			<li>&#169; {{ site.time | date: '%Y' }} {{ site.title }} {{ site.subtitle }}</li>
 			<li> || Powered by Jekyll</li>
+            <li> || Partners: </li>
+			{% for partner in site.data.partners %}
+			<li><a href="{{ partner.url }}" target="_blank"><img src="{{ partner.img }}" alt="{{ partner.title }}"></a></li>
+			{% endfor %}
 		</ul>
 	</div>
 </section>
