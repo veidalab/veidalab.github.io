@@ -222,6 +222,406 @@
 		padding: 10px 0 20px;
 		background: lighten($border-color,5);
 		@include media($medium) {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			@include span-columns(3);
 			margin-left: 0;
 			margin-right: 0;
@@ -383,7 +783,7 @@
 	}
 	.inner-right {
 		@include span-columns(4);
-		@include omega();
+		@include omega(4n);
 		margin-bottom: 5px;
 		padding-top: 50px;
 		form {
@@ -431,15 +831,22 @@
    ========================================================================== */
 
 #site-footer {
-	@include font-size(10);
+	@include font-size(14);
 	@include outer-container;
 	padding: $gutter;
+	display: block;
+	border-collapse: collapse;
 	font-family: $alt-font;
 	background: #737373;
 	max-width: 100%;
-	margin-bottom: 0px;
+	margin: 0px;
 	.inner-left {
-		@include span-columns(4);
+		@include media($micro) {
+			@include fill-parent;
+		}
+		@include media(new-breakpoint(min-width em(840) 12)) {
+			@include span-columns(2);
+		}
 		vertical-align: middle;
 		text-align: center;
 		ul {
@@ -456,16 +863,22 @@
 		}
 	}
 	.inner-right {
-		@include span-columns(8);
-		@include omega();
+		@include media($micro) {
+			@include fill-parent;
+		}
+		@include media(new-breakpoint(min-width em(840) 12)) {
+			@include span-columns(10);
+			@include omega(4n);
+		}
 		margin-bottom: 5px;
+      	vertical-align: middle;
 		form {
 			display: inline;
 			overflow: auto;
 			white-space: nowrap;
 			margin-bottom: 0px;
 			input[type=text] {
-				width: 75%;
+				width: 60%;
 				display: inline;
 				white-space: nowrap;
 				margin-bottom: 0px;
@@ -514,7 +927,7 @@
 			li {
 				font-size: rem(12);
 				display: inline;
-				white-space: nowrap;
+				white-space: pre-wrap;
 				img {
 					width: 30px;
 					height: auto;
