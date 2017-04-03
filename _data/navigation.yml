@@ -19,3 +19,13 @@
   url: /contact/
   excerpt: "Get in touch"
   image: veida-teaser-709x443.png
+
+- title: Veidabot
+  url: www.veidabot.com
+  excerpt: "Try out our Lab Bot"
+  image: veida-teaser-709x443.png
+
+- title: Vdiobot
+  url: www.vdiobot.com
+  excerpt: "Try out our Video Bot"
+  image: veida-teaser-709x443.png
