@@ -38,20 +38,21 @@ $(document).ready(function(){
 
         // Grab the elements from the form to make up
         // an object containing name, email and message
-        var data = {
-            name: document.getElementById('name').value,
-            email: document.getElementById('email').value,
-            message: document.getElementById('message').value
-        };
+        // var data = {
+        //     name: document.getElementById('name').value,
+        //     email: document.getElementById('email').value,
+        //     message: document.getElementById('message').value
+        // };
 
         $.ajax({
             type: "POST",
             url: this.action,
-            data: data,
+            data: "brad",
             success: function(data) {
                 window.location.href = "/thanks/";
             },
             dataType: "json",
+            contentType: "application/json",
             error: function (xhr, ajaxOptions, thrownError) {
                 var errorMessage = 'Error! Email not sent!';
                 if (thrownError == 'Bad Request') {

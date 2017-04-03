@@ -16,7 +16,7 @@ url: 'http://www.veidalab.com'
 
 ### [Dr. Matthew Kyan](http://eecs.lassonde.yorku.ca/faculty/matthew-kyan/)
 
-[![](http://eecs.lassonde.yorku.ca/wp-content/uploads/2016/02/Matthew-90x65.jpg)](http://eecs.lassonde.yorku.ca/faculty/matthew-kyan/)
+[![Dr. Matthew Kyan](http://eecs.lassonde.yorku.ca/wp-content/uploads/2016/02/Matthew-90x65.jpg)](http://eecs.lassonde.yorku.ca/faculty/matthew-kyan/)
 
 
 Matthew Kyan received the B.Sc. in Computer Science (’97), B.Eng. (’98) and PhD (’07) in
