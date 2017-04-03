@@ -3,20 +3,25 @@
     <div class="inner-left">
         <section>
             <h2>Contact Us</h2>
-            <form action="https://formspree.io/{{ site.email }}" method="POST">
+            <form id="myForm" action="{{ site.contactform }}" method="POST">
                 <div class="field half first">
                     <input type="text" name="name" id="name" placeholder="Name"/>
                 </div>
                 <div class="field half">
-                    <input type="text" name="_replyto" id="email" placeholder="Email"/>
+                    <input type="text" name="email" id="email" placeholder="Email"/>
                 </div>
                 <div class="field">
-                    <textarea name="message" id="message" rows="6" placeholder="Message"></textarea>
+                    <textarea name="message" id="message" rows="6" placeholder="Message" style="font-size:12pt;"></textarea>
                 </div>
                 <ul class="actions" style="float:left;margin:0px;height:42px;">
                     <li><input type="submit" value="Send Message" class="special btn-inner-right" /></li>
                 </ul>
             </form>
+            <style type="text/css">
+                #response { display:none; padding: 5px;}
+                .success { background-color: green;}
+                .error { background-color: red;}
+            </style>
         </section>
     </div>
     <div class="inner-right">
