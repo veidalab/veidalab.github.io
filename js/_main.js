@@ -36,20 +36,21 @@ $(document).ready(function(){
         e.stopPropagation();
         console.log(this.action);
 
-        // Grab the elements from the form to make up
-        // an object containing name, email and message
-        // var data = {
-        //     name: document.getElementById('name').value,
-        //     email: document.getElementById('email').value,
-        //     message: document.getElementById('message').value
-        // };
+//        Grab the elements from the form to make up
+//        an object containing name, email and message
+        var data = {
+            name: document.getElementById('name').value,
+            email: document.getElementById('email').value,
+            message: document.getElementById('message').value
+        };
 
         $.ajax({
             type: "POST",
             url: this.action,
-            data: "brad",
+            data: JSON.stringify(data),
             success: function(data) {
-                window.location.href = "/thanks/";
+                //window.location.href = "/thanks/";
+                $('#response').html("Message sent!").addClass('success').fadeIn('fast');
             },
             dataType: "json",
             contentType: "application/json",

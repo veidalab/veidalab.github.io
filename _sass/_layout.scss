@@ -780,27 +780,45 @@
 			text-align: left;
 			font-size: rem(16);
 		}
-	}
-	.inner-right {
-		@include span-columns(4);
-		@include omega(4n);
-		margin-bottom: 5px;
-		padding-top: 50px;
 		form {
 			display: inline;
 			overflow: auto;
 			white-space: nowrap;
 			margin-bottom: 0px;
 			input[type=text] {
-				width: 75%;
 				display: inline;
 				white-space: nowrap;
 				margin-bottom: 0px;
 			}
-			input[type=submit]{
+			input[type=submit] {
 				margin-bottom: 0px;
 			}
+			input[type=checkbox] {
+				float: left;
+				display: flex;
+				text-align: left;
+				vertical-align: top;
+				margin-right: 0px;
+              	margin-top: 10px;
+			}
+			label {
+				font-size: rem(12);
+				font-style: italic;
+				font-family: "Helvetica Neue","Segoe UI",Arial,sans-serif;
+				margin-bottom: .375rem;
+				margin-left: 5px;
+				margin-top: 8px;
+				float: left;
+			}
 		}
+
+	}
+	.inner-right {
+		@include span-columns(4);
+		@include omega(4n);
+		margin-bottom: 5px;
+		padding-top: 50px;
+
 		h3 {
 			font-size: rem(15);
 			margin: 0px;

@@ -13,7 +13,11 @@
                 <div class="field">
                     <textarea name="message" id="message" rows="6" placeholder="Message" style="font-size:12pt;"></textarea>
                 </div>
-                <ul class="actions" style="float:left;margin:0px;height:42px;">
+                <span class="checkbox">
+                  <input type="checkbox" name="subscribe" value="1" id="subscribecheck" checked="">
+                  <label class="label_checkbox" for="subscribecheck">subscribe to receive news and blog updates.</label>
+                </span>
+                <ul class="actions" style="float:right;margin:0px;height:42px;">
                     <li><input type="submit" value="Send Message" class="special btn-inner-right" /></li>
                 </ul>
             </form>
@@ -31,7 +35,7 @@
                 <h3>Email</h3>
             </div>
             <br />
-             <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+            <a href="mailto:{{ site.email }}">{{ site.email }}</a>
         </section>
         <section>
             <div class="contact-method">
