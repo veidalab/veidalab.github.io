@@ -24,6 +24,9 @@ zip_code: "M3J 1P3"
 # Contact Form Destination
 contactform: https://lro66w36u9.execute-api.us-east-1.amazonaws.com/dev
 
+# Subscribe Form Destination
+subscribeurl: https://m2oqwwi6i3.execute-api.us-east-1.amazonaws.com/dev
+
 # Jekyll configuration
 
 sass:

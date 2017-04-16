@@ -818,7 +818,7 @@
 		@include omega(4n);
 		margin-bottom: 5px;
 		padding-top: 50px;
-
+		margin-top: 20px;
 		h3 {
 			font-size: rem(15);
 			margin: 0px;
@@ -844,6 +844,26 @@
 		}
 	}
 }
+
+/* Related to contact form feedback */
+.loader {
+	color: #444;
+	font-size: 6px;
+	margin: 0 auto;
+	width: 1em;
+	height: 1em;
+	border-radius: 50%;
+	position: relative;
+	text-indent: -9999em;
+	-webkit-animation: load4 1.3s infinite linear;
+	animation: load4 1.3s infinite linear;
+	-webkit-transform: translateZ(0);
+	transform: translateZ(0);
+}
+#msg-response { display:none; padding: 5px;}
+.success { background-color: green;}
+.error { background-color: red;}
+
 /*
    Site footer
    ========================================================================== */

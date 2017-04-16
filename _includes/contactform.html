@@ -21,11 +21,10 @@
                     <li><input type="submit" value="Send Message" class="special btn-inner-right" /></li>
                 </ul>
             </form>
-            <style type="text/css">
-                #response { display:none; padding: 5px;}
-                .success { background-color: green;}
-                .error { background-color: red;}
-            </style>
+            <div id="msg-sending" style="display:none;">
+                <div class="loader">Sending...</div>
+            </div>
+            <div id="msg-response" style="display:none;"></div>
         </section>
     </div>
     <div class="inner-right">
