@@ -18,6 +18,7 @@
   }
   .inner-wrap {
     @include outer-container;
+    z-index:7;
   }
 }
 
@@ -92,6 +93,7 @@
 .top-menu {
   display: none;
   position: relative;
+  z-index:10;
   /*	@include media($medium) {
           @include span-columns(12);
       }*/
@@ -597,11 +599,12 @@
 
 #particles-js {
   position: absolute;
-  z-index: 6;
   width: 100%;
   height: 100px;
   background-image: url();
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 50% 50%;
+  top: 0px;
+  left: 0px;
 }
