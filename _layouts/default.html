@@ -40,7 +40,9 @@
     <div id="page-wrapper">
           {{ content }}
     </div>
-    {% include contactform.html %}
+    {% if page.showcontactform %}
+      {% include contactform.html %}
+    {% endif %}
     {% include footer.html %}
 
     <script src="{{ site.url }}/js/vendor/jquery-1.9.1.min.js"></script>

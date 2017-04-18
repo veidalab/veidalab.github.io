@@ -10,6 +10,7 @@ carousel:
   - image: /images/veida-banner10.jpg
 published: true
 title: ''
+showcontactform: yes
 ---
 ## The  Laboratory  for  Visual,  Embodied  and  Immersive  Data  Analysis  (VEIDA)
 

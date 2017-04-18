@@ -33,11 +33,15 @@
   color: $white;
   font-family: $alt-font;
   font-weight: 700;
+  z-index: 7;
+  cursor: pointer;
   @include font-size(20, no);
   line-height: .5 * $masthead-height; // half the height to center vertically
   text-transform: uppercase;
   .site-logo {
-    height: 50px
+    height: 50px;
+    z-index: inherit;
+    cursor: pointer;
   }
 }
 
@@ -601,10 +605,10 @@
   position: absolute;
   width: 100%;
   height: 100px;
-  background-image: url();
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 50% 50%;
   top: 0px;
   left: 0px;
 }
+
